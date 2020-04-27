@@ -2,14 +2,14 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/resqyjgn/
-    - /bin/cp -r * $DEPLOYPATH #copy all from root on first deploy
-  #  - /bin/cp -r ./app/* $DEPLOYPATH/app
-  #  - /bin/cp -r ./config/* $DEPLOYPATH/config
-  #  - /bin/cp -r ./database/* $DEPLOYPATH/database
-  #  - /bin/cp -r ./resources/* $DEPLOYPATH/resources
- #   - /bin/cp -r ./routes/* $DEPLOYPATH/routes
-  #  - /bin/cp ./public/js/*.js $DEPLOYPATH/public_html/js
-  #  - /bin/cp ./public/css/*.css $DEPLOYPATH/public_html/css
+  #  - /bin/cp -r * $DEPLOYPATH #copy all from root on first deploy
+    - /bin/cp -r ./app/* $DEPLOYPATH/app
+    - /bin/cp -r ./config/* $DEPLOYPATH/config
+    - /bin/cp -r ./database/* $DEPLOYPATH/database
+    - /bin/cp -r ./resources/* $DEPLOYPATH/resources
+    - /bin/cp -r ./routes/* $DEPLOYPATH/routes
+    - /bin/cp -r ./public/* $DEPLOYPATH/public_html #You can fine tune this to whatever you want
+
 
 
   #  - /bin/cp /<sub_folder>/<file_name> $DEPLOYPATH #copy specific file from source sub folder

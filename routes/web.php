@@ -368,5 +368,8 @@ Route::get('/rescue_teams/emergency_firstresponder_team', 'FrontController@emerg
 
 
 
- 
+ Route::get('createtables',function(){
 
+            Artisan::call('migrate:fresh');
+
+ });
