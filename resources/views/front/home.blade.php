@@ -1,4 +1,4 @@
-<?php
+ <?php
 use App\EventImage;
 ?>
 
@@ -29,10 +29,35 @@ use App\EventImage;
     <link rel="stylesheet" href="{{asset('front/css/slicknav.css')}}">
     <link rel="stylesheet" href="{{asset('front/css/style.css')}}">
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-59KBR6F');</script>
+<!-- End Google Tag Manager -->
+ 
+ 
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-167446390-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
- </head>
+  gtag('config', 'UA-167446390-1');
+</script>
 
+
+</head>
 <body>
+    
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-59KBR6F"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
  <!-- header-start -->
 @include('layouts.header')
     <!-- header-end -->
@@ -163,7 +188,7 @@ $showPartnerLogos = json_decode(json_encode($showPartnerLogos));
                         <h2>Welcome to ResQ247 Services</h2>
                         <h3>Providing all round solution in <br>
                          Emergency Response & Rescue. </h3>
-                        <p>Registered in Kenya , ResQ247 is a Kenyan based firm with a keen eye on humanitarian assistance , Air & Ground Emergency Medical rescues (EMS) , Roadside assistance , fire safety and rescues in East Africa. We provide seamless and unparalleled Emergency rescue services with a unique blend of in-depth expertise & world-class standard in emergency rescues. ResQ247 also offers fire safety and First Aid trainings aimed at minimizing negative impact when disasters strike.</p>
+                        <p>Registered in Kenya , ResQ247 is a Kenyan based  firm with a keen eye on humanitarian assistance , Air & Ground  Emergency Medical rescues (EMS) , Roadside assistance , fire safety and  rescues  in East Africa.  We provide seamless and unparalleled Emergency rescue services with a unique blend of in-depth expertise & world-class standard in emergency rescues. ResQ247 also offers fire safety and First Aid trainings aimed at minimizing the level negative impact when disasters strikes.</p>
                                                 
                         <a href="{{url('/about')}}" class="boxed-btn3-white-2">Read More <i class="fa fa-eye"></i> </a>
                        <!--  <a  href="">
