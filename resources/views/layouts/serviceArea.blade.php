@@ -16,7 +16,7 @@
               <div style="margin-bottom: 30px; background-color: lightblue;" class="card">
                 <div class="card-header" id="medEmer">
                   <h5 class="mb-0">
-                    <button style="text-decoration: none;" class="btn btn-link collapsed" data-toggle="collapse" data-target="#medEmerT" aria-expanded="true" aria-controls="medEmerT">
+                    <button style="text-decoration: none; font-weight: bold;" class="btn btn-link collapsed" data-toggle="collapse" data-target="#medEmerT" aria-expanded="true" aria-controls="medEmerT">
                      <i class="fa fa-medkit"></i> Ground Ambulance
                     </button>
                   </h5>
@@ -25,9 +25,9 @@
                   <div class="card-body">
                     
                  <p>
-                     ResQ247 Ground Ambulance Service provides emergency pre-hospital treatment and transportation by ambulance to medical facilities. ResQ247 is the largest private operator and provider of emergency medical rescue in Kenya allowing multiple operators to operate on the same platform. People no longer have to cram multiple contact numbers for different service providers, you only need an App to access the service provider near you real time real-time. We have trained emergency services personnel including primary, advanced and critical care paramedics and emergency medical services dispatchers. Through the provision of dispatch and paramedic services, expert patient care is delivered from the time an emergency SOS is registered to treatment at the scene and transport to hospital. Backed with technology, our team that comprises of volunteers mostly in areas perceived as black spots will almost arrive at any accident emergency scene ahead of everyone else.</p>
+                     ResQ247 Ground Ambulance Service provides emergency pre-hospital treatment and transportation by ambulance to medical facilities. ResQ247 is the largest private operator and provider of emergency medical rescue in Kenya allowing multiple operators to operate on the same platform. You no longer have to cram multiple Emergency contact numbers for different Emergency service providers, you only need an App and /or a direct contact to access Any Emergency service provider near you real time. We have trained and experienced emergency services personnel including primary, advanced and critical care paramedics and emergency medical services dispatchers. Through the provision of dispatch and paramedic services, expert patient care is delivered from the time an emergency SOS is registered to treatment at the scene and transport to hospital. Backed with technology, our team that comprises trained and experiences paramedics and volunteers mostly in areas perceived as black spots will almost arrive at any accident emergency scene ahead of everyone else.</p>
 
-                    <p> ResQ247 paramedics and support staff are also proud and active members of their communities, devoting countless volunteer service hours to local events and public education campaigns on matters Emergency healthcare. We fully support the Kenyan Government initiative to attainment of universal healthcare (UHC) by providing solutions that align with the Kenyan dream. Our technological solutions make it easy for everyone to access professional medical emergency medical rescue services within the acceptable time limits  any where anytime and to besides lowering  the costs  making accessibility a reality for all.</p>
+                    <p> ResQ247 paramedics and support staff are also proud and active members of their communities, devoting countless volunteer service hours to local events and public education campaigns on matters Emergency healthcare. We fully support the Kenyan Government initiative to attainment of universal healthcare (UHC) by providing solutions that align with the Kenyan dream. Our technological solutions make it easy for everyone to access professional medical emergency medical rescue services within the acceptable time limits any where anytime  besides lowering the costs and  making accessibility a reality for all.</p>
 
                     <a href="{{url('services/emergency_medical')}}" class="boxed-btn3-service ">Register/Subscribe <i class="fa fa-hand-pointer-o"></i></a>
                   </div>
@@ -39,7 +39,7 @@
               <div style="margin-bottom: 30px; background-color: #FFEC8B;" class="card">
                 <div class="card-header" id="medEmer2">
                   <h5 class="mb-0">
-                    <button style="text-decoration: none;" class="btn btn-link collapsed" data-toggle="collapse" data-target="#medEmer2T" aria-expanded="true" aria-controls="medEmer2T">
+                    <button style="text-decoration: none; font-weight: bold;" class="btn btn-link collapsed" data-toggle="collapse" data-target="#medEmer2T" aria-expanded="true" aria-controls="medEmer2T">
                      <i class="fa fa-plane"></i>  Air Ambulances 
                     </button>
                   </h5>
@@ -92,7 +92,7 @@
                         </div>
                         <br>
                         <h3>Fire Safety & Rescue Services</h3>
-                        <p>In most cases fire accidents is the last thing that can cross our minds, this is a reality one incident and your entire life tranforms. It could cost your life together with your loved ones. But having the right partner is key and at ResQ247 we understand it well and that is why we have designed specifically for your needs besides giving you the requisite trainings on fire safety, we always make sure we equip our clients with right fire fighting equipments and in some cases there will be fire engines stationed within your area to respond to major fire incidents. Majorly this is for organised residential estates, industrial properties, major learning institutions etc. Find out more by <a href="{{url('/contact')}}">contacting</a> us today.</p>                        
+                        <p>Besides giving you’re the requisite trainings on fire safety, we always make sure we equip our clients with right firefighting equipment’s and in some cases there will be fire engines stationed within your area to respond to major fire incidents. Majorly for our corporate industrial clients etc. Organized estates, learning institutions etc. Find out more by <a href="{{url('/contact')}}">contacting</a> us today.</p>                        
                         <a href="{{url('services/emergency_fire')}}" class="boxed-btn3-service">Learn More <i class="fa fa-hand-pointer-o"></i></a>
                     </div>
                 </div>

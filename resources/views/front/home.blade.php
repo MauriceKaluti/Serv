@@ -30,7 +30,7 @@ use App\EventImage;
     <link rel="stylesheet" href="{{asset('front/css/style.css')}}">
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
 
- 
+ </head>
 
 <body>
  <!-- header-start -->
@@ -163,7 +163,7 @@ $showPartnerLogos = json_decode(json_encode($showPartnerLogos));
                         <h2>Welcome to ResQ247 Services</h2>
                         <h3>Providing all round solution in <br>
                          Emergency Response & Rescue. </h3>
-                        <p>Registered in Kenya , ResQ247 is a Kenyan based  firm with a keen eye on humanitarian assistance , Air & Ground  Emergency Medical rescues (EMS) , Roadside assistance , fire safety and  rescues  in East Africa.  We provide seamless and unparalleled Emergency rescue services with a unique blend of in-depth expertise & world-class standard in emergency rescues. ResQ247 also offers fire safety and First Aid trainings aimed at minimizing the level negative impact when disasters strikes.</p>
+                        <p>Registered in Kenya , ResQ247 is a Kenyan based firm with a keen eye on humanitarian assistance , Air & Ground Emergency Medical rescues (EMS) , Roadside assistance , fire safety and rescues in East Africa. We provide seamless and unparalleled Emergency rescue services with a unique blend of in-depth expertise & world-class standard in emergency rescues. ResQ247 also offers fire safety and First Aid trainings aimed at minimizing negative impact when disasters strike.</p>
                                                 
                         <a href="{{url('/about')}}" class="boxed-btn3-white-2">Read More <i class="fa fa-eye"></i> </a>
                        <!--  <a  href="">

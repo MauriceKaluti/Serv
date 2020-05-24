@@ -11,18 +11,18 @@
 
                         <ul class="nav" id="myTab" role="tablist">
                             <li class="nav-item">
-                                <a class="nav-link active" id="medical-tab" data-toggle="tab" href="#medical" role="tab" aria-controls="medical"
+                                <a style="font-weight: bold;" class="nav-link active" id="medical-tab" data-toggle="tab" href="#medical" role="tab" aria-controls="medical"
                             aria-selected="true">EMS</a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" id="road-tab" data-toggle="tab" href="#road" role="tab" aria-controls="road"
+                                <a style="font-weight: bold;" class="nav-link" id="road-tab" data-toggle="tab" href="#road" role="tab" aria-controls="road"
                             aria-selected="false">Roadside Assistance & Rescue</a>
                             </li>
 
 
                             <li class="nav-item">
-                                <a class="nav-link" id="fire-tab" data-toggle="tab" href="#fire" role="tab" aria-controls="fire"
+                                <a style="font-weight: bold;" class="nav-link" id="fire-tab" data-toggle="tab" href="#fire" role="tab" aria-controls="fire"
                             aria-selected="false">Fire Safety & Rescue</a>
                             </li>
                         </ul>
@@ -44,11 +44,11 @@
                                                     </div>
                                                     <h3>Medical Emergency Membership</h3>
                                                      <p>
-                                                       ResQ247 Ground Ambulance Service provides emergency pre-hospital treatment and transportation by ambulance to the most equipped medical facilities nearest to the patient or transfers between medical facilities.  When an Emergency of a medical nature comes in matters,   time matters is key in saving a life. With Our state of the art Ambulance and experienced paramedics, you are almost certain you or your loved one will make it to your desired medical facility  <a style="color: blue;"  title="Subscribe Here"  href="{{url('packages/emergency_medical')}}"> register today.</a> </p>
+                                                       ResQ247 Ground Ambulance Service provides emergency pre-hospital treatment and transportation by ambulance to the most equipped medical facilities nearest to the patient or transfers between medical facilities. When an Emergency of a medical nature comes up, time is key in saving a life. With Our state of the art Ambulance and experienced paramedics, you are almost certain you or your loved one will make it to your desired medical facility. <a style="color: blue;"  title="Subscribe Here"  href="{{url('packages/emergency_medical')}}"><i class="fa fa-edit"></i> register today.</a> </p>
                                                          <br>
                                                          <h3>Air Emergency Membership</h3>
                                                          <p>
-                                                        Our Air Ambulance Services gives patients, their case managers, or their loved ones throughout the trip, having a perfect choice when it comes to medical air transport is key in saving a life. We provide reliable and professional medical flights for people who must be evacuated to medical facilities within the region for medical reasons or evacuation from remote and inaccessible places by road. Maybe travelling overseas for further treatment or elsewhere but cannot fly commercially, we get you there stress free, <a style="color: blue;"  title="Request Air Quote Here" data-toggle="modal" data-target="#airQuote"  href=""> register today.</a> 
+                                                        Our Air Ambulance Services gives patients, their case managers, or their loved ones throughout the trip, having a perfect choice when it comes to medical air transport is key in saving a life. We provide reliable and professional medical flights for people who must be evacuated to medical facilities within the region for medical reasons or evacuation from remote and inaccessible places by road. Maybe travelling overseas for further treatment or elsewhere but cannot fly commercially, we get you there stress free, <a style="color: blue;"  title="Request Air Quote Here" data-toggle="modal" data-target="#airQuote"  href=""> <i class="fa fa-edit"></i> register today.</a> 
                                                         
 
                                                      </p>

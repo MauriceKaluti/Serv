@@ -93,15 +93,14 @@
                 <div id="medEmerT" class="collapse show" aria-labelledby="medEmer" data-parent="#accordion">
                   <div class="card-body">
                     <p>
-                   Suppose you get a flat tire only to discover your spare is flat as well or you never had one!  
-                    Or you had an accident or you just got a mechanical problem along the road. Or, maybe, you run out of gas miles from the next filling station! Such a situation can leave you stranded, yet, a tow to a mechanic would generate a major expense for a relatively minor difficulty. In times like these, you can be saved by requesting of or assistance by simply launching ResQ247 Mobile App and making a request for this crucial services or by simply calling our Hot line or toll free number when in this emergency situation. 
+                    Suppose you get a flat tire only to discover your spare is flat as well or you never had one! Or you had an accident or you just got a mechanical problem along the road. Or, maybe, you run out of gas miles from the next filling station! Such a situation can leave you stranded, yet, a tow to a mechanic would generate a major expense for a relatively minor difficulty. In times like these, you can be saved by requesting of or assistance by simply launching ResQ247 Mobile App and making a request for this crucial services or by simply calling our Hot line or toll free number when in this emergency situation.
                     </p>                
                   </div>
                 </div>
             </div>
         <!-- End Card -->
 
-                                        <!-- Card -->
+         <!-- Card -->
               <div style="margin-bottom: 30px;" class="card">
                 <div class="card-header" id="medEmer2">
                   <h5 class="mb-0">
@@ -114,7 +113,7 @@
                   <div class="card-body">
                    
               <p>
-                     Our rescue team will come to you with the tools and supplies to make these kinds of little or major fixes on the spot. We’ll get you back up on the road or even have your car towed or carried on a flat bed track to your preferred garage anywhere across the republic of Kenya.   The emergency road service and tow truck service include but not limited to: 
+                   Our rescue team will come to you with the tools and supplies to make these kinds of little or major fixes on the spot. Whether it’s a road accident or a break down, we’ll get you back up on the road or even have your car towed or carried on a flatbed track to your preferred garage anywhere across the republic of Kenya. The emergency road service and tow truck service include but not limited to:
                     <ul>
                      <li> <i class="fa fa-circle"></i> Jump Start</li>
                      <li> <i class="fa fa-circle"></i>  Lockouts</li>

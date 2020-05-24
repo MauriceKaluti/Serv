@@ -8,7 +8,7 @@
                             <p>Reach us out 24/7 via</p>
                         </div>
                         <div class="info_button">
-                            <a href="tel:+254738247247" class="boxed-btn3-white">+254 738 247 247</a>
+                            <a style="font-weight: bold;" href="tel:+254738247247" class="boxed-btn3-white">+254 738 247 247</a>
                         </div>
                     </div>
                 </div>
@@ -19,7 +19,7 @@
                             <p>We allow clients to select their service preference</p>
                         </div>
                         <div class="info_button">
-                                <a  title="Enquiry Here" class="boxed-btn3-white" data-toggle="modal" data-target="#enquiryModal"  href="">Make Enquiry</a> 
+                                <a style="font-weight: bold;"  title="Enquiry Here" class="boxed-btn3-white" data-toggle="modal" data-target="#enquiryModal"  href="">Make Enquiry</a> 
                             
                         </div>
                     </div>

@@ -45,7 +45,7 @@
                         </div>
                         <div class="col-xl-2 offset-xl-1 col-md-6 col-lg-3">
                             <div class="footer_widget">
-                                <h3 class="footer_title">
+                                <h3 style="font-weight: bold;" class="footer_title">
                                 Memberships 
                                 </h3>
                                 <ul>  
@@ -64,7 +64,7 @@
                         </div>
                         <div class="col-xl-2 col-md-6 col-lg-2">
                             <div class="footer_widget">
-                                <h3 class="footer_title">
+                                <h3 style="font-weight: bold;" class="footer_title">
                                         Quick Links
                                 </h3>
                                 <ul>
@@ -106,7 +106,7 @@
                         </div>
                         <div class="col-xl-3 col-md-6 col-lg-3">
                             <div class="footer_widget">
-                                <h3 class="footer_title">
+                                <h3 style="font-weight: bold;" class="footer_title">
                                         Address
                                 </h3>
                                 <p> Delta Corner House, <br> 
@@ -136,7 +136,7 @@
                         <div class="col-xl-12">
                             <p class="copy_right text-center">
                               
-                        ResQ247 Ltd | Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | <a href="https://carmeltechnologies.co.ke" target="_blank">Dev by CT</a>
+                        &copy; ResQ247 Ltd | Copyright <script>document.write(new Date().getFullYear());</script> All rights reserved | <a style="font-weight: bold;" href="https://carmeltechnologies.co.ke" target="_blank">Dev by CT</a>
 
                             </p>
                         </div>

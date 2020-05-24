@@ -8,18 +8,12 @@
                     <img src="images/resq247logocircle.png" width="50" height="50" alt="User" />
                 </div>
                 <div class="info-container">
-                    <div class="name" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Active Admin:  <?php echo $_SESSION['adminlogin']; ?></div>
-                    <!-- <div class="email"> <?php echo $_SESSION['adminlogin']; ?></div> -->
-                    <?php          
-                        $adminid = $_SESSION['adminlogin'];
-                        $query7=mysqli_query($con,"Select AdminEmailId from  tbladmin where AdminUserName='$adminid'");
-                        $row7=mysqli_fetch_array($query7);
-                     ?>
-                     <div class="email">Email: <?php echo htmlentities($row7['AdminEmailId']);?></div>
+                    <div class="name" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Active Admin:   
+                     <div class="email">Email:  </div>
                     <div class="btn-group user-helper-dropdown">
                         <i class="material-icons" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">keyboard_arrow_down</i>
                         <ul class="dropdown-menu pull-right">
-                            <li><a href="reset_password.php"><i class="material-icons">person</i>Update Profile</a></li>
+                             <li><a href="{{url('admin_area/update_profile')}}"><i class="material-icons">person</i>Update Profile</a></li>
                             <li role="separator" class="divider"></li>                          
                             <li role="separator" class="divider"></li>
                             <li><a href="./logout.php"><i class="material-icons">input</i>Sign Out</a></li>

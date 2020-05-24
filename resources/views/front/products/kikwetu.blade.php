@@ -90,11 +90,32 @@
           <div class="card-body">
             <h2>Kikwetu ResQ247 Product</h2>
  
-            <p>It is hard to predict sometimes when an Emergency of a medical nature can happen in your home, and nothing pains more when  your loved one develops a complications as a result of unprofessional handling of the victim and it even becomes worse when you lose a loved one because of delayed on no response from paramedics. It’s never late to consider an alternative Emergency service provider for your family members. Whatever the medical emergency and wherever within the republic of Kenya, We provide top notch home assistance and emergency rescue within a timely manner using professionals. 
+            <p>It is hard to predict sometimes when an Emergency of a medical nature can happen in your home, and nothing pains more when your loved one develops a complications as a result of unprofessional handling of the victim and it even becomes worse when you lose a loved one because of delayed or no response from paramedics. It’s never late to consider an alternative Emergency service provider for your family members. Whatever the medical emergency and wherever within the republic of Kenya, We provide top notch home assistance and emergency rescue within a timely manner using professionals.
         </p>
         <p>
-          ResQ247 will extend a helping hand 365 days a year. We constantly endeavor work to improve the access to delivery of the best possible emergency   medical   rescue services for our clients at home any time. Our adoption of technology and an operation call center makes it easier for clients to reach our support team 24/7.  Don’t wait, sign up today and enjoy the great convinience. 
+          ResQ247 will extend a helping hand 365 days a year. We constantly endeavor work to improve the access to delivery of the best possible emergency medical rescue services for our clients at home any time. Our adoption of technology and an operation call center makes it easier for clients to reach our support team 24/7. Don’t wait, sign up today and enjoy the great convenience.
             </p>   
+
+            <p style="font-weight: bold; color: black;">
+              Benefits
+            </p>
+          <p>
+ 
+<ul>
+
+<li><i class="fa fa-circle"></i> Access to Medical emergency services 24/7 </li>
+ <li><i class="fa fa-circle"></i> Access to Our ResQ247 mobile App and Emergency Manned call center</li>
+ <li><i class="fa fa-circle"></i> Text messages or Emails alerts for weather alerts, potential disasters within specific regions and any other current major incidents in Kenya</li>
+ <li><i class="fa fa-circle"></i> Onsite treatment and stabilization</li>
+ <li><i class="fa fa-circle"></i> Unlimited emergency access to emergency medical care and services.</li>
+ <li><i class="fa fa-circle"></i> No physical area limitation.</li>
+ <li><i class="fa fa-circle"></i> On call medical consultant</li>
+<li><i class="fa fa-circle"></i> Hospital transfers</li>
+<li><i class="fa fa-circle"></i> Free Roadside assistance and rescues in selected major towns in Kenya </li>
+<li><i class="fa fa-circle"></i> Free basic first aid training for selected families members </li>
+
+</ul>
+</p>
           </div>
         </div>
     </div>

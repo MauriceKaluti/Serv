@@ -91,15 +91,9 @@
                 </div>
                 <div id="roadEmerT" class="collapse show" aria-labelledby="roadEmer" data-parent="#accordion">
                   <div class="card-body">
-                  <p>In most cases fire accidents is the last thing that can cross our minds. But this is one thing that
-                        can easily change your entire life or even cost your life or that of your loved ones. Yes it can!
-                        At ResQ247 we understand it well and that is why we have products for you, specifically on fire
-                        rescue. Besides giving you’re the requisite trainings on fire safety, we always make sure we
-                        equip our clients with right fire fighting equipments and in some cases there will be fire engines
-                        stationed within your area to respond to major fire incidents. Majorly for our corporate
-                        industrial clients, organized estates, learning institutions etc .
+                  <p>In most cases fire accidents is the last thing that can cross our minds. But this is one thing that can easily change your entire life or even cost your life or that of your loved ones. Yes it can! At ResQ247 we understand it well and that is why we have products for you, specifically on fire safety and rescue. Besides giving you’re the requisite trainings on fire safety, we always make sure we equip our clients with right firefighting equipment’s and in some cases there will be fire engines stationed within your area to respond to major fire incidents. Majorly for our corporate industrial clients, organized estates, learning institutions etc.
                         </p>  
-               
+                           
                   </div>
                 </div>
             </div>

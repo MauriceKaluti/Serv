@@ -83,6 +83,7 @@ use App\BlogPost;
                             @forelse($categories as $category)  
 
                                 <li>
+                                    
                                     <a href="{{route('blogCategory', $category->id )}}">{{$category->name}}</a>
                                 </li>
                              
